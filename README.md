@@ -1,7 +1,7 @@
 # HIGHER/LOWER (Music)
 
 ## Description
-HIGHER/LOWER is a game where the user must guess whether a song has more listeners than another, seeing how many in a row they can guess correctly. The app pulls real music data from Last.fm and Deezer.
+HIGHER/LOWER is an app where the user must guess whether a song has more listeners than another, seeing how many in a row they can guess correctly. The app pulls real music data from Last.fm and Deezer.
 
 **Tools Used:**
 - Xcode
